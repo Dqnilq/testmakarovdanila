@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nKVgkwORJEpsKTcddHAoZQDNA/k6KacBmtUKADkxaFVC9qXTbroNMfrQo/vAB+ROH+aKYb/Jza/aIXq1mQs8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danila\\Desktop\\HomeWorkIT\\controltest\\FSLib1\\FSLib1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danila\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

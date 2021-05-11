@@ -1,0 +1,10 @@
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\bin\Debug\net5.0\FSLib1.deps.json
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\bin\Debug\net5.0\FSLib1.dll
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\bin\Debug\net5.0\FSLib1.pdb
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\bin\Debug\net5.0\FSLib1.xml
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\obj\Debug\net5.0\FSLib1.fsprojAssemblyReference.cache
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\obj\Debug\net5.0\FSLib1.AssemblyInfoInputs.cache
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\obj\Debug\net5.0\FSLib1.AssemblyInfo.fs
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\obj\Debug\net5.0\FSLib1.dll
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\obj\Debug\net5.0\FSLib1.xml
+C:\Users\Danila\Desktop\HomeWorkIT\controltest\FSLib1\obj\Debug\net5.0\FSLib1.pdb
